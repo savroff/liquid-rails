@@ -1,5 +1,9 @@
 # Overview
 
+## 0.1.4
+
+* Fix #h tot public for Rails 5.0 (Nikita Savrov)
+
 ## 0.1.2
 
 ### New Features
